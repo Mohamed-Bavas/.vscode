@@ -28,8 +28,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Git/embedded-c",
-      "program": "c:/Git/embedded-c/build/Debug/outDebug",
+      "cwd": "c:/Git/c_basics_program",
+      "program": "c:/Git/c_basics_program/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
