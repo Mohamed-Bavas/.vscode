@@ -1,4 +1,4 @@
-import java.*;
+
 import java.util.Scanner;
 class LargestNumber{
     public static void main(String[] args){
@@ -15,5 +15,6 @@ class LargestNumber{
             }
         }
         System.out.print(max);
+        sc.close();
     }
 }

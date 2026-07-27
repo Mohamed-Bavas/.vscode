@@ -14,5 +14,6 @@ public class PrimeNumbers {
                 System.out.println(i);
             }
         }
+        sc.close();
     }
 }

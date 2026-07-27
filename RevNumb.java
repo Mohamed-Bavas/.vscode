@@ -1,4 +1,4 @@
-import java.*;
+
 import java.util.Scanner;
 public class RevNumb {
     public static void main(String[] args){
@@ -10,5 +10,6 @@ public class RevNumb {
             a=a/10;
         }
         System.out.print(rev);
+        sc.close();
     }
 }

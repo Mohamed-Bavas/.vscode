@@ -1,4 +1,4 @@
-import java.*;
+
 import java.util.Scanner;
 public class Factorial {
     public static void main(String[] args){
@@ -9,5 +9,6 @@ public class Factorial {
             fact*=i;
         }
         System.out.print(fact);
+        sc.close();
     }
 }

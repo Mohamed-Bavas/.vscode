@@ -1,4 +1,4 @@
-import java.*;
+
 import java.util.Scanner;
 public class HallowSquare {
 
@@ -15,5 +15,6 @@ public class HallowSquare {
             }
             System.out.println();
         }
+        sc.close();
     }
 }

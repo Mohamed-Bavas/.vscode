@@ -16,5 +16,6 @@ public class Arrayreverse {
         for (int i=a-1;i>=0;i--){
             System.out.print(b[i]+" ");
         }
+        sc.close();
     }
 }

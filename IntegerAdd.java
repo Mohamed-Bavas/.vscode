@@ -10,6 +10,7 @@ public class IntegerAdd {
             add += Integer.parseInt(c[i]);
         }
         System.out.print(add);
+        sc.close();
     }
     
 }

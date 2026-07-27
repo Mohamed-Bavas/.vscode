@@ -1,4 +1,4 @@
-import java.*;
+
 import java.util.Scanner;
 class SmallestNumber{
     public static void main(String[] args){
@@ -15,5 +15,6 @@ class SmallestNumber{
             }
         }
         System.out.print(min);
+        sc.close();
     }
 }
