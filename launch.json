@@ -28,8 +28,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Git/Embedded-Firmware-Roadmap/Day01_C_Basics",
-      "program": "c:/Git/Embedded-Firmware-Roadmap/Day01_C_Basics/build/Debug/outDebug",
+      "cwd": "c:/Git/Embedded-Firmware-Roadmap/Day02_Pointers",
+      "program": "c:/Git/Embedded-Firmware-Roadmap/Day02_Pointers/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
