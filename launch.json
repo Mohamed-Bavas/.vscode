@@ -28,8 +28,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Git/Embedded-Firmware-Roadmap/Day02_Pointers",
-      "program": "c:/Git/Embedded-Firmware-Roadmap/Day02_Pointers/build/Debug/outDebug",
+      "cwd": "c:/Git/Embedded-Firmware-Roadmap/Day03_Functions_Memory",
+      "program": "c:/Git/Embedded-Firmware-Roadmap/Day03_Functions_Memory/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
