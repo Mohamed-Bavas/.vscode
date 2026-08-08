@@ -28,8 +28,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Git/Embedded-Firmware-Roadmap/Day05_File_Handling/header_file_demo.c",
-      "program": "c:/Git/Embedded-Firmware-Roadmap/Day05_File_Handling/header_file_demo.c/build/Debug/outDebug",
+      "cwd": "c:/Git/Embedded-Firmware-Roadmap/Day06_Embedded_C",
+      "program": "c:/Git/Embedded-Firmware-Roadmap/Day06_Embedded_C/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
